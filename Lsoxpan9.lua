@@ -118,4 +118,4 @@ _G.__KEY_AUTH = {
 }
 
 --// LOAD REAL SCRIPT
-loadstring(game:HttpGet(REAL_SCRIPT_URL))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sonfor50/SDAL7hdSU7/main/6c799sCG7LB9A8GfQhazbZY9fN4eU51398DwFCKf12SbF74L74q4p3YB6s4cbs8i.Lua"))()
