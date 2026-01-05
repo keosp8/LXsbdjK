@@ -2,7 +2,7 @@
 
 --// CONFIG
 local KEYS_URL = "https://raw.githubusercontent.com/sonfor50/76qKBTHWgc/main/uKhEwlemiVO7ByU7cPs722Muod9t3JdQ.json"
-local REAL_SCRIPT_URL = "https://raw.githubusercontent.com/sonfor50/SDAL7hdSU7/main/realscript.lua"
+local REAL_SCRIPT_URL = "https://raw.githubusercontent.com/sonfor50/SDAL7hdSU7/main/6c799sCG7LB9A8GfQhazbZY9fN4eU51398DwFCKf12SbF74L74q4p3YB6s4cbs8i.Lua"
 
 local WEBHOOK_URL = "https://discord.com/api/webhooks/1457792277966618900/YyxUT4vBHL-Rxq98QafcH6wF_WYBSIM0wcDvW2sMqibConh1YJmrsQhBzl2KWlokk_mI"
 
